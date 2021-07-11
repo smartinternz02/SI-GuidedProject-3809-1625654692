@@ -1,0 +1,21 @@
+useful cases of iot:
+    1. Elderly Care Monitoring
+    2. Bike Helmet Crash Sensors
+    3. Smart Tennis Rackets
+    4. Wi-Fi Type Writers
+    5. Smart Smoke Detectors
+    6. Air Quality Sensors
+    7. Smart Fire Extinguishers
+    8. Flood Alert Sensors
+    9. Home Energy Monitoring and Control
+    10.Smart Door Locks
+    11.Concrete Infrastructure Monitoring
+    12.Soil monitoring
+    13.Retail Analytics
+    14.Predictive machine maintenance
+    15.Fleet tracking
+    16.Smart farming & irrigation
+    17.Noise and health monitoring
+    18.Patient surveillances
+    19.Diseases detection
+    20.Parking areas 
